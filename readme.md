@@ -1,8 +1,9 @@
-Auto Doge
-=========
+# Auto Doge
 
 A Reddit bot that creates Doge images. I ran it on [/u/auto-doge][bot]. It was a
 complete and utter failure.
+
+![Auto Doge screenshot.](screenshot.jpg)
 
 ## Install
 
@@ -23,12 +24,8 @@ Change the necessary fields as described in the config file.
 
     python2 bot.py
 
-## Sample
+## License
 
-An example for [this submission][sub]:
-
-![doge sample][sample]
+MIT
 
 [bot]: http://www.reddit.com/user/auto-doge
-[sub]: http://www.reddit.com/r/WTF/comments/1xwgnu/this_rescue_cat_weighs_21_pounds/
-[sample]: http://i.imgur.com/IrQVo4J.jpg
