@@ -1,3 +1,7 @@
+# This repository has been moved to [gitlab.com/paul-nechifor/auto-doge](http://gitlab.com/paul-nechifor/auto-doge).
+
+Old readme:
+
 # Auto Doge
 
 A Reddit bot that creates Doge images. I ran it on [/u/auto-doge][bot]. It was a
